@@ -1,6 +1,0 @@
-nome=input('Qual seu nome ')
-idade=input('Qual sua idade ')
-habilidade=input('Habilidade magica ')
-tesouroSagrado=input('seu tesouro sagrado ')
-peso=input('Peso ')
-print(nome,idade,habilidade,tesouroSagrado,peso)
